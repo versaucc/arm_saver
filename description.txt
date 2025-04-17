@@ -1,5 +1,15 @@
+General Description: 
+
 armRest3; features 0.875 inch diameter cut for 0.5 inches to mate clean with bow stabilizer 
 bowSide2; 0.9 inch stud length 
 StabWght1; 1.5 inch diameter
 armRest3assem; includes armRest3, bowSide2, StabWght1 
-Current final draft of model - to be printed and tested for function and strength. 
+
+printing: 
+4mm outer wall thickness 
+6mm inner wall thickness 
+Use brim 
+0.2mm layer height default 
+Prints well with Bambu PETG basic
+PLA and ABS have not been tested.
+Carbon PETG seems to strip threads however, no tests have been done with inserts
