@@ -1,0 +1,5 @@
+armRest3; features 0.875 inch diameter cut for 0.5 inches to mate clean with bow stabilizer 
+bowSide2; 0.9 inch stud length 
+StabWght1; 1.5 inch diameter
+armRest3assem; includes armRest3, bowSide2, StabWght1 
+Current final draft of model - to be printed and tested for function and strength. 
